@@ -19,7 +19,7 @@
   <div>
     <a href="https://x.com/bobbob1571370"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/@Riskermo"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://risker21.github.io/mo/link/WeChat.html"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Risker21&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
