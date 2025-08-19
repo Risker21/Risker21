@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Momo同学祝您今天愉快!;愿你有对抗风雨的勇气，也有享受生活的惬意！&center=true&size=27)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Momo同学祝您今天愉快!;愿你有对抗风雨的勇气，也有享受生活的惬意！&center=true&size=50)](https://git.io/typing-svg)
 
 
   <!-- knock code pictures 敲代码的图片 -->
