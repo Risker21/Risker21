@@ -34,8 +34,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)](https://github.com/IceEnd)
 
 </div
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Risker21)
+
 
 
