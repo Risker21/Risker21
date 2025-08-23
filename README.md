@@ -36,7 +36,10 @@
   </picture>
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=iceend)](https://github.com/IceEnd)
 
-</div
+</div>
 
-
+<div>&nbsp;</div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=我的活动记录)
+<div>&nbsp;</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)
 
