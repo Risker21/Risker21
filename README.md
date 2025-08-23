@@ -35,6 +35,7 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-</div>
+</div
+  <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
 
 
