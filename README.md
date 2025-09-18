@@ -23,7 +23,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=Risker21&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <div>&nbsp;</div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Risker21&&show_icons=true&theme=github" />
+   
 
 
   </div>
